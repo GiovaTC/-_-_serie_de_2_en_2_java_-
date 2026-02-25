@@ -1,7 +1,9 @@
 # -_-_serie_de_2_en_2_java_- :. 
 # 🔢 Serie de 2 en 2 (Java):
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/89e671db-4666-4954-9ea2-6d3777893f21" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/89e671db-4666-4954-9ea2-6d3777893f21" />        
+
+<img width="1286" height="1079" alt="image" src="https://github.com/user-attachments/assets/c0b14411-843b-41e6-aa8c-909644216ec6" />    
 
 Programa en **Java** que solicita al usuario un número límite y muestra en pantalla una **serie de números incrementados de 2 en 2**, comenzando desde 0 hasta el valor ingresado.
 
